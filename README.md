@@ -20,7 +20,6 @@ This project simulates a nationwide enterprise network expansion for I.T Lab Cor
 ## Technical Skills Applied
 - Static Routing	Manually configured static routes for all inter-branch communication.
 - Subnetting	Designed efficient subnet schemes for branch offices using /24, /25, /27 masks.
-- Route Summarization	Reduced routing complexity with summarization techniques (/22, /23 routes).
 - Network Simulation	Built and tested a multi-branch WAN setup using Cisco Packet Tracer.
 - Troubleshooting	Performed connectivity tests and route verification (ping, traceroute).
 
