@@ -25,7 +25,7 @@ This project simulates a nationwide enterprise network expansion for I.T Lab Cor
 - Troubleshooting	Performed connectivity tests and route verification (ping, traceroute).
 
 
-## 🗺️ Network Topology
+## 🗺️ Networks LAN Subnets
 | Location            | Router Name        | LAN Subnet             |
 |---------------------|--------------------|------------------------|
 | Head Office 1       | lpltsc.hq          | 10.100.0.0/24          |
