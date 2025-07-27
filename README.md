@@ -41,7 +41,7 @@ This project simulates a nationwide enterprise network expansion for I.T Lab Cor
 | HQ (itlab.hq) ↔ Mindanao Branch | 110.125.126.12/30|
 | HQ (itlab.hq) ↔ Visayas Branch  | 110.125.126.0/29 |
 
-![Network Topology Diagram](images/topology.JPG)
+![Network Topology Diagram](images/topology.jpg)
 
 📥 [Download the Packet Tracer Lab File (.pkt)](lab-files/Static-Routing-Lab.pkt)
 
